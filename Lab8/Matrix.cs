@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab8
 {
-    class Matrix
+    public class Matrix
     {
         private int n;
         private int[,] matrix;
